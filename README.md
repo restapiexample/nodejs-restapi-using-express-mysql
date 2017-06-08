@@ -1,10 +1,11 @@
 <h1>Nodejs Rest API Example Using ExpressJS and Mysql</h1>
 I have created simple example to create RESTFul api for crud operation using mysql database.I have added following features into this source code,
-Add Record
-Edit Record
-Delete Record
-Featch records
-
+<ul>
+<li>Add Record</li>
+<li>Edit Record</li>
+<li>Delete Record</li>
+<li>Featch records</li>
+</ul>
 
 # how to create table in db
 You need to craete 'test' database into mysql and import customer.sql table into your mysql database.
