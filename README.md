@@ -11,7 +11,7 @@ I have created simple example to create RESTFul api for crud operation using mys
 You need to craete 'test' database into mysql and import customer.sql table into your mysql database.
 
 # How to run nodejs application
-copy index.js and package.json file into your nodejs project folder,
-Open command line and cd to your above nodejs project folder
-run 'npm install'
-run 'node index.js'
+<p>copy index.js and package.json file into your nodejs project folder,</p>
+<p>Open command line and cd to your above nodejs project folder</p>
+<p>run 'npm install'</p>
+<p>run 'node index.js'</p>
