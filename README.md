@@ -1,17 +1,34 @@
-<h1>Nodejs Rest API Example Using ExpressJS and Mysql</h1>
-I have created simple example to create RESTFul api for crud operation using mysql database.I have added following features into this source code,
-<ul>
-<li>Add Record using rest call into mysql database</li>
-<li>Edit Record using rest call into mysql database</li>
-<li>Delete Record using rest call into mysql database</li>
-<li>Featch records using rest call into mysql database</li>
-</ul>
+# Nodejs REST API example using ExpressJS and MySQL
 
-# how to create table in db
-You need to craete 'test' database into mysql and import customer.sql table into your mysql database.
+I wrote a simple example of a RESTFul API with CRUD operation using MySQL database. 
 
-# How to run nodejs application
-<p>copy index.js and package.json file into your nodejs project folder,</p>
-<p>Open command line and cd to your above nodejs project folder</p>
-<p>run 'npm install'</p>
-<p>run 'node index.js'</p>
+With this example you can:
+
+* Add record
+* Edit record
+* Delete record
+* Fetch one or all records
+
+# How to create a database and table in MySQL
+In the MySQL query editor write and execute the following command:
+```SQL
+CREATE DATABASE test;
+```
+Then execute the __customer.sql__ script.
+
+# How to run the example
+Clone the repo
+```BASH
+git clone https://github.com/restapiexample/nodejs-restapi-using-express-mysql.git
+```
+
+Then run
+```
+npm install
+```
+
+```
+node index.js
+```
+
+## Happy Coding! :smile:
