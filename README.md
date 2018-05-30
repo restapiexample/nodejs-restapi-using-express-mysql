@@ -8,7 +8,7 @@ I have created simple example to create RESTFul api for crud operation using mys
 </ul>
 
 # how to create table in db
-You need to craete 'test' database into mysql and import customer.sql table into your mysql database.
+You need to create 'test' database into mysql and import customer.sql table into your mysql database.
 
 # How to run nodejs application
 <p>copy index.js and package.json file into your nodejs project folder,</p>
