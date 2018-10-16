@@ -4,11 +4,11 @@ I have created simple example to create RESTFul api for crud operation using mys
 <li>Add Record using rest call into mysql database</li>
 <li>Edit Record using rest call into mysql database</li>
 <li>Delete Record using rest call into mysql database</li>
-<li>Featch records using rest call into mysql database</li>
+<li>Fetch records using rest call into mysql database</li>
 </ul>
 
 # how to create table in db
-You need to craete 'test' database into mysql and import customer.sql table into your mysql database.
+You need to create 'test' database into mysql and import customer.sql table into your mysql database.
 
 # How to run nodejs application
 <p>copy index.js and package.json file into your nodejs project folder,</p>
